@@ -1,0 +1,6 @@
+
+composer.lock
+vendor/
+file/
+node_modules/
+/.idea/vcs.xml
